@@ -1,0 +1,69 @@
+[15-Aug-2014 17:08:03] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 10
+[15-Aug-2014 17:08:48] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:10:29] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:10:31] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:10:48] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:16:51] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:17:18] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:18:12] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:18:25] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:18:31] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:22:07] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:22:10] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:33:44 America/Chicago] PHP Fatal error:  Call to undefined function conectar_se() in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 23
+[15-Aug-2014 17:34:07 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'equip431'@'localhost' (using password: NO) in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 11
+[15-Aug-2014 17:34:07 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Access denied for user 'equip431'@'localhost' (using password: NO)' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php:14
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/lib/db/DbConnection.php(39): DbConnection->conectar_se(Object(Closure))
+#1 /home/equip431/public_html/impacto_web/index.php(9): DbConnection->nova_consulta('SELECT * FROM `...', Object(Closure))
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 14
+[15-Aug-2014 17:37:43 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'equip431'@'localhost' (using password: NO) in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 12
+[15-Aug-2014 17:37:43 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Access denied for user 'equip431'@'localhost' (using password: NO)' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php:15
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/lib/db/DbConnection.php(46): DbConnection->conectar_se(Object(Closure))
+#1 /home/equip431/public_html/impacto_web/index.php(9): DbConnection->nova_consulta('SELECT * FROM `...', Object(Closure))
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 15
+[15-Aug-2014 17:38:07 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'equip431'@'localhost' (using password: NO) in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 12
+[15-Aug-2014 17:38:07 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Access denied for user 'equip431'@'localhost' (using password: NO)' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php:15
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/lib/db/DbConnection.php(46): DbConnection->conectar_se(Object(Closure))
+#1 /home/equip431/public_html/impacto_web/index.php(9): DbConnection->nova_consulta('SELECT * FROM `...', Object(Closure))
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 15
+[15-Aug-2014 17:39:00 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'equip431'@'localhost' (using password: NO) in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 12
+[15-Aug-2014 17:39:00 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Access denied for user 'equip431'@'localhost' (using password: NO)' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php:15
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/lib/db/DbConnection.php(46): DbConnection->conectar_se(Object(Closure))
+#1 /home/equip431/public_html/impacto_web/index.php(9): DbConnection->nova_consulta('SELECT * FROM `...', Object(Closure))
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 15
+[15-Aug-2014 17:39:19 America/Chicago] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'equip431'@'localhost' (using password: NO) in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 12
+[15-Aug-2014 17:39:19 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Access denied for user 'equip431'@'localhost' (using password: NO)' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php:15
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/lib/db/DbConnection.php(46): DbConnection->conectar_se(Object(Closure))
+#1 /home/equip431/public_html/impacto_web/index.php(9): DbConnection->nova_consulta('SELECT * FROM `...', Object(Closure))
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 15
+[15-Aug-2014 17:51:04 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/equip431/public_html/impacto_web/index.php on line 5
+[15-Aug-2014 17:51:20 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/equip431/public_html/impacto_web/index.php on line 5
+[15-Aug-2014 17:51:52 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'equip431'@'localhost' (using password: NO)' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php:15
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/lib/db/DbConnection.php(15): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 /home/equip431/public_html/impacto_web/index.php(7): DbConnection->get_connection()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 15
+[15-Aug-2014 17:52:16 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'equip431'@'localhost' (using password: NO)' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php:15
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/lib/db/DbConnection.php(15): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 /home/equip431/public_html/impacto_web/index.php(7): DbConnection->get_connection()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 15
+[15-Aug-2014 17:54:48 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'equip431'@'localhost' (using password: NO)' in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php:22
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/lib/db/DbConnection.php(22): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 /home/equip431/public_html/impacto_web/index.php(7): DbConnection->get_connection()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 22
+[15-Aug-2014 17:57:38 America/Chicago] PHP Fatal error:  Call to undefined method DbConnection::prepare() in /home/equip431/public_html/impacto_web/index.php on line 9
