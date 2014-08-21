@@ -67,3 +67,50 @@ Stack trace:
 #2 {main}
   thrown in /home/equip431/public_html/impacto_web/lib/db/DbConnection.php on line 22
 [15-Aug-2014 17:57:38 America/Chicago] PHP Fatal error:  Call to undefined method DbConnection::prepare() in /home/equip431/public_html/impacto_web/index.php on line 9
+[21-Aug-2014 12:19:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:20:22 America/Chicago] PHP Fatal error:  Call to undefined function IndexController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:21:17 America/Chicago] PHP Fatal error:  Call to undefined function IndexController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:21:17 America/Chicago] PHP Fatal error:  Call to undefined function IndexController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:22:03 America/Chicago] PHP Fatal error:  Call to undefined function Index() in /home/equip431/public_html/impacto_web/index.php on line 9
+[21-Aug-2014 12:22:26 America/Chicago] PHP Fatal error:  Call to undefined function IndexController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:22:35 America/Chicago] PHP Fatal error:  Call to undefined function IndexController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:22:55 America/Chicago] PHP Fatal error:  Call to undefined function IndexController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:24:27 America/Chicago] PHP Fatal error:  Call to undefined function HomeController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:25:22 America/Chicago] PHP Fatal error:  Call to undefined function Index() in /home/equip431/public_html/impacto_web/index.php on line 12
+[21-Aug-2014 12:25:57 America/Chicago] PHP Fatal error:  Call to undefined function HomeController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:27:04 America/Chicago] PHP Fatal error:  Call to undefined function HomeController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:27:22 America/Chicago] PHP Fatal error:  Call to undefined function HomeController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:28:53 America/Chicago] PHP Fatal error:  Call to undefined function HomeController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:29:08 America/Chicago] PHP Fatal error:  Call to undefined function new HomeController().Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:29:19 America/Chicago] PHP Fatal error:  Call to undefined function HomeController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:31:16 America/Chicago] PHP Fatal error:  Call to undefined function HomeController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:31:30 America/Chicago] PHP Fatal error:  Call to undefined function Index() in /home/equip431/public_html/impacto_web/index.php on line 12
+[21-Aug-2014 12:32:28 America/Chicago] PHP Fatal error:  Call to undefined function Index() in /home/equip431/public_html/impacto_web/index.php on line 12
+[21-Aug-2014 12:32:39 America/Chicago] PHP Fatal error:  Call to undefined function Index() in /home/equip431/public_html/impacto_web/index.php on line 12
+[21-Aug-2014 12:32:47 America/Chicago] PHP Fatal error:  Call to undefined function HomeController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:33:33 America/Chicago] PHP Fatal error:  Call to undefined function HomeController.Index() in /home/equip431/public_html/impacto_web/index.php on line 12
+[21-Aug-2014 12:34:43 America/Chicago] PHP Fatal error:  Call to undefined function HomeController.Index() in /home/equip431/public_html/impacto_web/index.php on line 10
+[21-Aug-2014 12:34:47 America/Chicago] PHP Fatal error:  Call to undefined function Index() in /home/equip431/public_html/impacto_web/index.php on line 12
+[21-Aug-2014 12:42:21 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/equip431/public_html/impacto_web/index.php on line 17
+[21-Aug-2014 12:42:31 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/equip431/public_html/impacto_web/index.php on line 17
+[21-Aug-2014 12:43:41 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/equip431/public_html/impacto_web/index.php on line 16
+[21-Aug-2014 12:43:53 America/Chicago] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/equip431/public_html/impacto_web/index.php on line 16
+[21-Aug-2014 12:47:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting T_VARIABLE or '$' in /home/equip431/public_html/impacto_web/index.php on line 14
+[21-Aug-2014 12:52:24 America/Chicago] PHP Warning:  Missing argument 1 for HomeController::Index(), called in /home/equip431/public_html/impacto_web/index.php on line 27 and defined in /home/equip431/public_html/impacto_web/controller/HomeController.php on line 6
+[21-Aug-2014 12:53:10 America/Chicago] PHP Fatal error:  Cannot redeclare HomeController::Index() in /home/equip431/public_html/impacto_web/controller/HomeController.php on line 10
+[21-Aug-2014 12:53:31 America/Chicago] PHP Warning:  Missing argument 1 for HomeController::Index(), called in /home/equip431/public_html/impacto_web/index.php on line 27 and defined in /home/equip431/public_html/impacto_web/controller/HomeController.php on line 5
+[21-Aug-2014 12:53:50 America/Chicago] PHP Warning:  Missing argument 1 for HomeController::Index(), called in /home/equip431/public_html/impacto_web/index.php on line 23 and defined in /home/equip431/public_html/impacto_web/controller/HomeController.php on line 5
+[21-Aug-2014 12:53:50 America/Chicago] PHP Warning:  Missing argument 1 for HomeController::Index(), called in /home/equip431/public_html/impacto_web/index.php on line 23 and defined in /home/equip431/public_html/impacto_web/controller/HomeController.php on line 5
+[21-Aug-2014 12:59:18 America/Chicago] PHP Fatal error:  Method name must be a string in /home/equip431/public_html/impacto_web/index.php on line 21
+[21-Aug-2014 13:01:17 America/Chicago] PHP Fatal error:  Class 'TesteController' not found in /home/equip431/public_html/impacto_web/index.php on line 16
+[21-Aug-2014 13:01:35 America/Chicago] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting T_STRING in /home/equip431/public_html/impacto_web/controller/TesteController.php on line 9
+[21-Aug-2014 13:03:13 America/Chicago] PHP Fatal error:  Call to undefined method TesteController::a() in /home/equip431/public_html/impacto_web/index.php on line 26
+[21-Aug-2014 13:04:46 America/Chicago] PHP Warning:  Missing argument 1 for TesteController::details(), called in /home/equip431/public_html/impacto_web/index.php on line 26 and defined in /home/equip431/public_html/impacto_web/controller/TesteController.php on line 9
+[21-Aug-2014 13:05:20 America/Chicago] PHP Warning:  Missing argument 1 for TesteController::details(), called in /home/equip431/public_html/impacto_web/index.php on line 26 and defined in /home/equip431/public_html/impacto_web/controller/TesteController.php on line 9
+[21-Aug-2014 13:06:58 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting T_VARIABLE in /home/equip431/public_html/impacto_web/index.php on line 27
+[21-Aug-2014 13:07:39 America/Chicago] PHP Warning:  Missing argument 1 for TesteController::details(), called in /home/equip431/public_html/impacto_web/index.php on line 29 and defined in /home/equip431/public_html/impacto_web/controller/TesteController.php on line 9
+[21-Aug-2014 13:09:03 America/Chicago] PHP Warning:  Missing argument 1 for TesteController::details(), called in /home/equip431/public_html/impacto_web/index.php on line 29 and defined in /home/equip431/public_html/impacto_web/controller/TesteController.php on line 9
+[21-Aug-2014 13:12:52 America/Chicago] PHP Warning:  Missing argument 1 for TesteController::details(), called in /home/equip431/public_html/impacto_web/index.php on line 27 and defined in /home/equip431/public_html/impacto_web/controller/TesteController.php on line 9
+[21-Aug-2014 13:47:04 America/Chicago] PHP Fatal error:  Call to a member function render() on a non-object in /home/equip431/public_html/impacto_web/controller/HomeController.php on line 12
+[21-Aug-2014 13:47:39 America/Chicago] PHP Fatal error:  Call to a member function render() on a non-object in /home/equip431/public_html/impacto_web/controller/HomeController.php on line 12
+[21-Aug-2014 13:50:34 America/Chicago] PHP Fatal error:  Class HomeView contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (BaseView::render_body) in /home/equip431/public_html/impacto_web/view/HomeView.php on line 15

@@ -1,2 +1,10 @@
 # Habilitar o PHP 5.3
 AddType application/x-httpd-php53 .php
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+</IfModule>
