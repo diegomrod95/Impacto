@@ -8,3 +8,22 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-l
 RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
 </IfModule>
+
+<FilesMatch "\.(flv|ico|pdf|avi|mov|ppt|doc|mp3|wmv|wav)$">
+Header set Cache-Control "max-age=31536000, public"
+</FilesMatch>
+
+# Cache de uma semana
+<FilesMatch "\.(jpg|jpeg|png|gif|swf|svg)$">
+Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
+
+# Cache de 3 horas
+<FilesMatch "\.(txt|xml|js|css)$">
+Header set Cache-Control "max-age=10800"
+</FilesMatch>
+
+# Não fazer o cache de arquivos
+<FilesMatch "\.(html|htm|php|cgi|pl)$">
+Header set Cache-Control "max-age=0, private, no-store, no-cache, must-revalidate"
+</FilesMatch>

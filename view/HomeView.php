@@ -8,9 +8,8 @@ class HomeView extends BaseView {
         $this->title .= " - Home";
     }
     
-    
     protected function render_body() {
-        echo "Estamos no controller Home";
+        include __DIR__ . '/../templates/home/home.view.php';
     }
 
 }
