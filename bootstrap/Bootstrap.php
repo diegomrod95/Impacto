@@ -5,6 +5,7 @@ require_once __DIR__ . '/../lib/db/DbConnection.php';
 
 // Models
 require_once __DIR__ . '/../model/Entidade.php';
+require_once __DIR__ . '/../model/Categoria.php';
 require_once __DIR__ . '/../model/Usuario.php';
 
 // Base View

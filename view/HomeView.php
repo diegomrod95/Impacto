@@ -2,8 +2,8 @@
 
 class HomeView extends BaseView {
     
-    function __construct () {
-        parent::__construct();
+    function __construct ($db) {
+        parent::__construct($db);
         
         $this->title .= " - Home";
     }

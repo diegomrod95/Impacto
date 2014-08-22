@@ -28,6 +28,14 @@ final class DbConnection {
         }
     }
     
+    public function fetch_query($query, $args) {
+        $conn = $this->get_connection();
+        $stmt = $conn->prepare($query);
+        $stmt->execute($args);
+        
+        return $stmt->fetchAll();
+    }
+    
     public function new_entity_query($query, $args, $class, $callback) {
         $conn = $this->get_connection();
         
@@ -39,6 +47,17 @@ final class DbConnection {
         while ($obj = $stmt->fetch()) {
             $callback($obj);
         }
+    }
+    
+    public function fetch_entity_query($query, $args, $class) {
+        $conn = $this->get_connection();
+        
+        $stmt = $conn->prepare($query);
+        $stmt->execute($args);
+        
+        $stmt->setFetchMode(PDO::FETCH_CLASS, $class);
+        
+        return $stmt->fetchAll();
     }
     
     public function new_command($query, $args) {

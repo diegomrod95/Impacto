@@ -1727,3 +1727,330 @@ Stack trace:
 #2 {main}
   thrown in /home/equip431/public_html/impacto_web/index.php on line 33
 [22-Aug-2014 14:03:12 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 15:51:13 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 15:51:13 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 15:51:13 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 15:51:13 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 16:07:35 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 16:07:35 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 16:07:35 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 16:07:35 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 16:11:47 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 16:11:47 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 16:11:47 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 16:11:47 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 16:15:01 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 16:15:01 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 16:15:01 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 16:15:01 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 17:48:11 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 17:48:11 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 17:48:11 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 17:48:11 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:16:54 America/Chicago] PHP Fatal error:  Call to undefined function get_categorias_from_db() in /home/equip431/public_html/impacto_web/view/BaseView.php on line 12
+[22-Aug-2014 18:17:29 America/Chicago] PHP Fatal error:  Call to undefined function get_categorias_from_db() in /home/equip431/public_html/impacto_web/view/BaseView.php on line 20
+[22-Aug-2014 18:17:50 America/Chicago] PHP Fatal error:  Call to a member function new_entity_query() on a non-object in /home/equip431/public_html/impacto_web/view/BaseView.php on line 12
+[22-Aug-2014 18:18:38 America/Chicago] PHP Fatal error:  Call to a member function new_entity_query() on a non-object in /home/equip431/public_html/impacto_web/view/BaseView.php on line 12
+[22-Aug-2014 18:19:25 America/Chicago] PHP Fatal error:  Call to a member function new_entity_query() on a non-object in /home/equip431/public_html/impacto_web/view/BaseView.php on line 12
+[22-Aug-2014 18:19:38 America/Chicago] PHP Fatal error:  Call to a member function new_entity_query() on a non-object in /home/equip431/public_html/impacto_web/view/BaseView.php on line 12
+[22-Aug-2014 18:20:44 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/equip431/public_html/impacto_web/view/BaseView.php on line 13
+[22-Aug-2014 18:21:37 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:21:37 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:21:37 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:21:37 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:27:26 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:27:26 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:27:26 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:27:26 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:30:55 America/Chicago] PHP Fatal error:  Cannot access private property Categoria::$nome in /home/equip431/public_html/impacto_web/templates/base/nav.view.php on line 10
+[22-Aug-2014 18:30:57 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:30:57 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:31:29 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:31:29 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:31:29 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:31:29 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:32:54 America/Chicago] PHP Fatal error:  Cannot access private property Categoria::$nome in /home/equip431/public_html/impacto_web/templates/base/nav.view.php on line 10
+[22-Aug-2014 18:32:55 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:32:55 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:37:51 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:37:51 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:37:51 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:37:51 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:38:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown error type: [4096] Object of class Categoria could not be converted to string<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/templates/base/nav.view.php(10): custom_error_handler(4096, 'Object of class...', '/home/equip431/...', 10, Array)
+#1 /home/equip431/public_html/impacto_web/templates/base.view.php(71): include('/home/equip431/...')
+#2 /home/equip431/public_html/impacto_web/view/BaseView.php(21): include('/home/equip431/...')
+#3 /home/equip431/public_html/impacto_web/controller/HomeController.php(15): BaseView->render()
+#4 /home/equip431/public_html/impacto_web/index.php(90): HomeController->Index()
+#5 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:38:22 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:38:22 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:38:35 America/Chicago] PHP Fatal error:  Cannot access private property Categoria::$nome in /home/equip431/public_html/impacto_web/templates/base/nav.view.php on line 10
+[22-Aug-2014 18:38:36 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:38:36 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:39:12 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:39:12 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:39:12 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:39:12 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:40:39 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown error type: [4096] Object of class Categoria could not be converted to string<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/templates/base/nav.view.php(10): custom_error_handler(4096, 'Object of class...', '/home/equip431/...', 10, Array)
+#1 /home/equip431/public_html/impacto_web/templates/base.view.php(71): include('/home/equip431/...')
+#2 /home/equip431/public_html/impacto_web/view/BaseView.php(21): include('/home/equip431/...')
+#3 /home/equip431/public_html/impacto_web/controller/HomeController.php(15): BaseView->render()
+#4 /home/equip431/public_html/impacto_web/index.php(90): HomeController->Index()
+#5 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:40:41 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:40:41 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:40:51 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:40:51 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:40:51 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:40:51 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:41:13 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:41:13 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:41:13 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:41:13 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:41:27 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:41:27 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:41:27 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:41:27 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:43:05 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:43:05 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:43:05 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:43:05 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:45:50 America/Chicago] PHP Fatal error:  Call to a member function get_nome() on a non-object in /home/equip431/public_html/impacto_web/templates/base/categorias.view.php on line 6
+[22-Aug-2014 18:45:52 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:45:52 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:45:52 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:45:52 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:47:19 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:47:19 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
+[22-Aug-2014 18:47:19 America/Chicago] PHP Warning:  Uncaught exception 'Exception' with message 'Unknown error type: [2] require_once(/home/equip431/public_html/impacto_web/controller/.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory<br />
+' in /home/equip431/public_html/impacto_web/index.php:33
+Stack trace:
+#0 /home/equip431/public_html/impacto_web/index.php(64): custom_error_handler(2, 'require_once(/h...', '/home/equip431/...', 64, Array)
+#1 /home/equip431/public_html/impacto_web/index.php(64): require_once()
+#2 {main}
+  thrown in /home/equip431/public_html/impacto_web/index.php on line 33
+[22-Aug-2014 18:47:19 America/Chicago] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/equip431/public_html/impacto_web/controller/.php' (include_path='.:/opt/php53/lib/php') in /home/equip431/public_html/impacto_web/index.php on line 64
